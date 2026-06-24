@@ -1,4 +1,4 @@
-# Proyecto del Curso: Sistemas Operativos I (V Ciclo)
+# Proyecto del Curso de Sistemas Operativos
 **Tema Protagonista:** Tu propio Spotify (Navidrome) – Instrumentación de Page Cache y Buffering
 **Institución:** Universidad ESAN
 **Profesor:** Marks Calderon Niquin
