@@ -3,7 +3,7 @@
 **Institución:** Universidad ESAN
 **Profesor:** Marks Calderon Niquin
 
-## 👥 Integrantes
+## Integrantes
 * Janampa Diaz Gustavo David
 * Lora Sambrano Jean Paul
 * Llerena Cabrera Anthony Paolo
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Despliegue de la Aplicación (Podman Rootless)
+## Despliegue de la Aplicación (Podman Rootless)
 Para cumplir con los requisitos obligatorios de aislamiento de recursos, entorno rootless y configuración de cgroups v2, el contenedor se desplegó ejecutando el siguiente comando en la terminal de Ubuntu:
 
 ```bash
